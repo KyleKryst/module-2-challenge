@@ -126,13 +126,13 @@ p {
   flex: 1;
 }
 
-.led-wall-box {
+.movie-review-box {
   position: relative;
   width: 666px;
   left: 93px;
 }
 
-.led-wall-text {
+.movie-review-text {
   color: #212121;
   background-color: #6ef213;
   width: fit-content;
@@ -142,7 +142,7 @@ p {
   padding: 3px;
 }
 
-.led-wall-box img {
+.movie-review-box img {
   border: 5px solid #6ef213;
   width: 666px;
 }
