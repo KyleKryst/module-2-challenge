@@ -94,14 +94,14 @@ p {
   text-align: right;
 }
 
-.surf-report-box {
+.gif-search-box {
   position: relative;
   width: 1413px;
   margin-top: 200px;
   margin-left: -60px;
 }
 
-.surf-report-text {
+.gif-search-text {
   color: #212121;
   background-color: #6ef213;
   width: fit-content;
@@ -110,7 +110,7 @@ p {
   left: 114.1px;
 }
 
-.surf-report-box img {
+.gif-search-box img {
   border: 5px solid #6ef213;
 }
 
